@@ -5,9 +5,22 @@
   color: blue;
 }
 h1 {
-  color: #f7325e;
+  color: #;
 }
 html {
   color: #7dc410;
   font-family: fantasy;
+  background-color: #4505;
+}
+body {
+  padding-top: 80px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.tour {
+  width: 65%;
+  color: black;
+  background-color: #4509;
+  align-content: center;
 }
